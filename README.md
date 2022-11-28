@@ -1,2 +1,2 @@
-CodeChef
 # Problem_Solving
+level Easy
